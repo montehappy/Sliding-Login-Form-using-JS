@@ -113,7 +113,7 @@ body {
   }
   
   .right .off:hover {
-    background: #eee;
+    background: rgb(220, 220, 220);
     color: #03A9F4;
     box-shadow: none;
   }
